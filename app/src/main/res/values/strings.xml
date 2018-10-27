@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Homework1</string>
+    <string name="input_edittext"></string>
+    <string name="c_f">แปลง C เป็น F</string>
+    <string name="f_c">แปลง F เป็น C</string>
+    <string name="output_textview"></string>
+    <string name="title_activity_body">body</string>
+</resources>
